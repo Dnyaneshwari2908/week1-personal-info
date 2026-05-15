@@ -18,9 +18,7 @@ This is my first Python project! It is a program that stores and displays person
 1. Make sure Python is installed
 2. Open terminal or command prompt
 3. Navigate to the project folder
-4. Run the following command:
-```bash
-python personal_info.py
+4. Run:python personal_info.py
 5.Follow the prompts to enter your information
 
 Features
