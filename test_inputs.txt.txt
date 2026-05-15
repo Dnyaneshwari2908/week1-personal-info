@@ -1,0 +1,16 @@
+Test Case 1
+Favorite Food: Pizza
+Favorite Color: Blue
+
+Test Case 2
+Favorite Food: Biryani
+Favorite Color: Black
+
+Test Case 3
+Favorite Food: Pav Bhaji
+Favorite Color: Pink
+
+Edge Case
+Favorite Food: (empty input)
+Favorite Color: (empty input)
+Program should ask again.
