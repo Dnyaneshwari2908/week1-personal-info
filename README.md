@@ -21,6 +21,7 @@ This is my first Python project! It is a program that stores and displays person
 4. Run the following command:
 ```bash
 python personal_info.py
+5.Follow the prompts to enter your information
 
 Features
 Stores static information (name, age, city, hobby)
